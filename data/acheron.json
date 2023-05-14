@@ -1,5 +1,5 @@
 {
-    "id": 85438299,
+    "id": 426,
     "name": "Isolation",
     "author": "Helvetica",
     "creators": [],
@@ -10,8 +10,8 @@
         {
             "user": "N/A",
             "link": "N/A",
-            "percent": N/A,
-            "hz": N/A
+            "percent": 0,
+            "hz": 0
         }
     ]
 }

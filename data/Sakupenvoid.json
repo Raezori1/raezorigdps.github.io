@@ -7,5 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=JpGyujVhQYQ",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Hamster",
+            "link": "a",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
